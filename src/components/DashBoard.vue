@@ -45,13 +45,7 @@
         <!-- Right Column -->
         <div class="right-column">
           <div class="card">
-            <div class="calendar-header">
-              <h3>August, 2023</h3>
-              <div>
-                <button>&lt;</button>
-                <button>&gt;</button>
-              </div>
-            </div>
+            
             <Calendar />
           </div>
           <div class="card">

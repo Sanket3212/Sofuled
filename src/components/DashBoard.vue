@@ -133,7 +133,7 @@ html {
 /* Sidebar */
 .sidebar {
   width: 220px;
-  background: rgb(14, 18, 105);
+ background: linear-gradient(to bottom right, #15152A, #1f1f38);
   color: white;
   padding: 20px;
   display: flex;
